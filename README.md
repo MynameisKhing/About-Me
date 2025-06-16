@@ -35,11 +35,11 @@ I am always ready to grow and explore new ideas.
 ## 📍 Recent Activity
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=panutthon&theme=omni" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mynameiskhing&theme=omni" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=panutthon&theme=omni" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mynameiskhing&theme=omni" />
 </div>
 
 
