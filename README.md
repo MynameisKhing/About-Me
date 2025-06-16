@@ -1,4 +1,4 @@
-# 🐻‍❄️ MynameisKhing
+# 🐻‍❄️ About Me
 <!-- Background-->
 **`Prince of Songkla University - Computer Engineering`**
 
