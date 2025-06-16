@@ -6,7 +6,9 @@ I have been interested in technology since I was a child, which led me to pursue
 I aim to apply my knowledge in meaningful and practical ways. I am particularly interested in IoT, web development, and AI. 
 I am always ready to grow and explore new ideas.
 
-### 🛠 Languages and Tools
+---
+
+### 🎲 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
