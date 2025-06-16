@@ -41,8 +41,6 @@ I am always ready to grow and explore new ideas.
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 </p>
 
-#
-
 ## 📊 GitHub Stats
 <!-- Stats -->
 <div align="center">
