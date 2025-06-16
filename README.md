@@ -21,7 +21,14 @@ I am always ready to grow and explore new ideas.
 
 #
 
-### 📊 Stats
+### 📊 GitHub Stats & Activity
 
-![MynameisKhing's GitHub stats](https://github-readme-stats.vercel.app/api?username=mynameiskhing&show_icons=true&theme=omni)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mynameiskhing&show_icons=true&theme=omni&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mynameiskhing&layout=compact&theme=omni&hide_border=true" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mynameiskhing&theme=omni&hide_border=true" />
+</div>
 
