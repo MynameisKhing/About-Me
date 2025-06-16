@@ -8,7 +8,7 @@ I am always ready to grow and explore new ideas.
 
 ---
 
-### 🎲 Languages and Tools
+## 🎲 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
@@ -21,7 +21,7 @@ I am always ready to grow and explore new ideas.
 
 #
 
-### 📊 GitHub Stats & Activity
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mynameiskhing&show_icons=true&theme=omni&include_all_commits=true&count_private=true&hide_border=true" />
@@ -31,4 +31,16 @@ I am always ready to grow and explore new ideas.
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mynameiskhing&theme=omni&hide_border=true" />
 </div>
+
+## 📍 Recent Activity
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=panutthon&theme=omni" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=panutthon&theme=omni" />
+</div>
+
+
 
